@@ -1,0 +1,3 @@
+/home/krsna/CLionProjects/A10/cmake-build-debug/CMakeFiles/A10.dir
+/home/krsna/CLionProjects/A10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/krsna/CLionProjects/A10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
