@@ -1,3 +1,0 @@
-/home/krsna/CLionProjects/hw/cmake-build-debug/CMakeFiles/hw.dir
-/home/krsna/CLionProjects/hw/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/krsna/CLionProjects/hw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
