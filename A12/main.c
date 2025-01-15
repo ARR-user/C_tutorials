@@ -1,4 +1,10 @@
 #include <stdio.h>
+   /* this program takes  10 input from user in an array and prints it
+    *understanding address of array ,pointer
+    *
+    */
+
+
 
 int main(void) {
     int array[10];
