@@ -5,7 +5,7 @@ int main(void) {
      */
 
     int number;
-    printf(" enter a  3 digit number\n");
+    printf(" enter a  3 digit number below 500\n");
     scanf("%d", &number);
 
     if (number >=0 && number <=100) {
